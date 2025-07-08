@@ -1,0 +1,6 @@
+requests
+pika
+psycopg2
+prometheus_client
+locust
+python-dotenv
