@@ -273,8 +273,8 @@ def main():
         - Keeps the main thread running until interrupted.
     """
     # Start Prometheus metrics server
-    start_http_server(9091)
-    logger.info("Prometheus metrics server started on: 9091")
+    start_http_server(9090)
+    logger.info("Prometheus metrics server started on: 9090")
 
     # Load environment variables from .env file
     load_dotenv()
