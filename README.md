@@ -1,7 +1,7 @@
 # Webhook Notifier
 
 ## Solution
-#### Solution, system design and technology used is in this file: `webhook_system_design.md`
+#### Solution, system design and technology used is in this file: [webhook_system_design.md](https://github.com/trace-tawfung/webhook-notifier-assignment/blob/master/webhook_system_design.md)
 
 ## Implementation
 
