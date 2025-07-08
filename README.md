@@ -30,8 +30,13 @@ VALUES ('wh1', 'http://example.com/webhook', ARRAY['event1']);
 
 ### 4. Run and test the Notifier
 - Run the Notifier:
+
+Install require python libs
 ```bash
 pip install -r requirements.py
+```
+Run the listener app
+```bash
 python webhook_notifier.py
 ```
 - Publish test message:
